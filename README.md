@@ -1,6 +1,6 @@
 
 # Pig-Dice
-Pig Dice-A webpage that is a game allows the user to roll a dice and if the use can get to 100 points he/dhe wins < a href= "https://lornakimani62.github.io/Pig-Dice/"> click here </a>
+Pig Dice-A webpage that is a game it allows the user to roll a dice and if the use can get to 100 points he/she wins <a href= "https://lornakimani62.github.io/Pig-Dice/"> click here </a> to check it out.
 
 # Author-Name
 Lorna Nashipae Kimani
