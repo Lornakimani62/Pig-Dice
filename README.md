@@ -6,7 +6,7 @@ Pig Dice-A webpage that is a game it allows the user to roll a dice and if the u
 Lorna Nashipae Kimani
  
 # Description
-This is a website that allows users to play the pig dice game. There are two players of whom can roll the dice in turns and the first to score 100 points 
+This is a website that allows users to play the pig dice game. There are two players of whom can roll the dice in turns and the first to score 100 points wins
 
 # Program Setup
 When the user visits my page he/she is welcomed and told what the purpose of the site is.<br>
