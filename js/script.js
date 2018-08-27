@@ -8,7 +8,7 @@ var totalTwo=0;
 
 function refreshPage(){
     window.location.reload();
-} 
+}
 
 
 // user interface
