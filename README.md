@@ -11,8 +11,9 @@ This is a website that allows users to play the pig dice game. There are two pla
 # Program Setup
 When the user visits my page he/she is welcomed and told what the purpose of the site is.<br>
 He/She is then prompted to start the game by clicking the start button.<br>
-Clicking the start buton displays two players if player on rolls the dice it displays the number rolled and his current score and in the cse that he rolls a one his/her turn is closed and it is the turn of the second player<br>
-The seconf player is allowed to roll the dice and incase he/she rolls a 1 he/she can no longer roll the dice and it is the turn is closed.To restart the game the players can click the reset button<br>
+Clicking the start buton displays two players if player on rolls the dice it displays the number rolled and his current score and in the case that he rolls a 1 his/her turn is closed and it is the turn of the second player<br>
+The second player is allowed to roll the dice and incase he/she rolls a 1 he/she can no longer roll the dice and it is the turn is closed.<br>
+To restart the game the players can click the reset button<br>
 
 # Specifications
 <li>Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":</li>
@@ -23,7 +24,7 @@ The seconf player is allowed to roll the dice and incase he/she rolls a 1 he/she
 
 
 # tools
-To develop this site i used 
+To develop this site I used 
 HTML<br>
 JQuery<br>
 Bootstrap<br>
